@@ -1,5 +1,5 @@
 项目：基于select聊天室
-时间：2019/6/10
+时间：2019/6
 作者：李锦龙
 
 ![1](https://github.com/NarcissusQAQ/LINUX/blob/master/pic/1.png)
